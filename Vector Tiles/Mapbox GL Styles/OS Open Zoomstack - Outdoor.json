@@ -12,7 +12,7 @@
         "mapbox:groups": {
             "e196265c0e550aaddd2885dc32fdb674": {
                 "name": "Names Group",
-                "collapsed": true
+                "collapsed": false
             },
             "2a680f24b0d35061ed7d21fd33c9cf08": {
                 "name": "Road Level 0 Group",
@@ -24,7 +24,7 @@
             },
             "0845f59ef0d52359da6fd788b079f747": {
                 "name": "Road Level 2 Group",
-                "collapsed": false
+                "collapsed": true
             },
             "beaf4956fb8a63410ecf80abdebcdfb5": {
                 "name": "Road Names Group",
@@ -32,10 +32,10 @@
             }
         }
     },
-    "center": [-1.4615287088616924, 50.93583580753295],
-    "zoom": 12.865099122153836,
+    "center": [-1.7245239450279541, 52.53946123863224],
+    "zoom": 14.693012568240825,
     "bearing": -4.923841430083372,
-    "pitch": 0,
+    "pitch": 4.5,
     "light": {"intensity": 0.25, "color": "hsl(0, 0%, 100%)"},
     "sources": {
         "composite": {
@@ -2105,13 +2105,17 @@
                     ["linear"],
                     ["zoom"],
                     12,
-                    7,
+                    7.5,
                     15,
-                    9,
+                    9.5,
                     22,
-                    20
+                    21
                 ],
-                "text-letter-spacing": 0.05
+                "text-letter-spacing": 0.05,
+                "text-font": [
+                    "Source Sans Pro Regular",
+                    "Arial Unicode MS Regular"
+                ]
             },
             "paint": {
                 "text-color": "#b2a695",
@@ -2799,7 +2803,7 @@
     ],
     "created": "2019-01-16T20:32:55.069Z",
     "id": "cjqzn7wul164r2ro6u6awxepx",
-    "modified": "2019-01-21T11:08:34.784Z",
+    "modified": "2019-02-04T10:17:59.178Z",
     "owner": "ordnancesurvey",
     "visibility": "public",
     "draft": false

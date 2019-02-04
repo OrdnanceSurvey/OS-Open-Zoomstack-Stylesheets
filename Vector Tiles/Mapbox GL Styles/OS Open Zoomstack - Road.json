@@ -12,7 +12,7 @@
         "mapbox:groups": {
             "e196265c0e550aaddd2885dc32fdb674": {
                 "name": "Names Group",
-                "collapsed": true
+                "collapsed": false
             },
             "2a680f24b0d35061ed7d21fd33c9cf08": {
                 "name": "Road Level 0 Group",
@@ -32,10 +32,10 @@
             }
         }
     },
-    "center": [-1.4477133544461367, 50.93650472701981],
-    "zoom": 12.452894102807072,
-    "bearing": 0,
-    "pitch": 0,
+    "center": [-1.6116775017445661, 60.250689361310066],
+    "zoom": 13.336684971142715,
+    "bearing": 24.00002486533299,
+    "pitch": 4.5,
     "light": {"intensity": 0.25, "color": "hsl(0, 0%, 100%)"},
     "sources": {
         "composite": {
@@ -2307,13 +2307,17 @@
                     ["linear"],
                     ["zoom"],
                     12,
-                    7,
+                    7.5,
                     15,
-                    9,
+                    9.5,
                     22,
-                    20
+                    21
                 ],
-                "text-letter-spacing": 0.05
+                "text-letter-spacing": 0.05,
+                "text-font": [
+                    "Source Sans Pro Regular",
+                    "Arial Unicode MS Regular"
+                ]
             },
             "paint": {
                 "text-color": "#d7986c",
@@ -3001,7 +3005,7 @@
     ],
     "created": "2019-01-18T21:59:29.544Z",
     "id": "cjr2l6y9j4s5j2sogw6o7svd1",
-    "modified": "2019-01-21T11:07:02.657Z",
+    "modified": "2019-02-04T10:17:25.263Z",
     "owner": "ordnancesurvey",
     "visibility": "public",
     "draft": false
