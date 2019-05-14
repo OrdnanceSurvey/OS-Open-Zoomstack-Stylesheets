@@ -1,0 +1,42 @@
+{
+  "name": "os-open-zoomstack-stylesheets",
+  "version": "1.0.0",
+  "description": "Cartographic Stylesheets for OS Open Zoomstack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrdnanceSurvey/OS-Open-Zoomstack-Stylesheets.git"
+  },
+  "keywords": [
+    "os",
+    "zoomstack",
+    "cartographic",
+    "cartography",
+    "stylesheet",
+    "ordnancesurvey",
+    "vector",
+    "mbtiles",
+    "geopackage",
+    "opendata"
+  ],
+  "author": "Charley Glynn",
+  "contributors": [
+      {
+          "name": "Ollie Snowden"
+      },
+      {
+          "name": "Gary Gale",
+          "url": "https://www.garygale.com/"
+      }
+  ],
+  "license": "OGL-UK-3.0",
+  "bugs": {
+    "url": "https://github.com/OrdnanceSurvey/OS-Open-Zoomstack-Stylesheets/issues"
+  },
+  "homepage": "https://github.com/OrdnanceSurvey/OS-Open-Zoomstack-Stylesheets#readme",
+  "dependencies": {},
+  "engines": {}
+}

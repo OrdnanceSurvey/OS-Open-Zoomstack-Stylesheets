@@ -1,0 +1,32 @@
+{
+    "name": "ordnancesurvey/os-open-zoomstack-stylesheets",
+    "description": "Cartographic Stylesheets for OS Open Zoomstack",
+    "type": "library",
+    "license": "OGL-UK-3.0",
+    "keywords": [
+      "os",
+      "zoomstack",
+      "cartographic",
+      "cartography",
+      "stylesheet",
+      "ordnancesurvey",
+      "vector",
+      "mbtiles",
+      "geopackage",
+      "opendata"
+    ],
+    "authors": [
+        {
+            "name": "Charley Glynn"
+        },
+        {
+            "name": "Ollie Snowden"
+        },
+        {
+            "name": "Gary Gale",
+            "homepage": "https://www.garygale.com/"
+        }
+    ],
+    "homepage": "https://github.com/OrdnanceSurvey/OS-Open-Zoomstack-Stylesheets#readme",
+    "require": {}
+}
