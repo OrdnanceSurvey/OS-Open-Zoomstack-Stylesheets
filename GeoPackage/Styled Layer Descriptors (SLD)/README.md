@@ -24,6 +24,19 @@ Create a Layer Group with the following layer order:
 
 [More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
 
+## Colour Vision Deficiency styles
+
+Accessibility disclaimer
+
+While we’ve worked hard to make sure these products are suitable for as many types of colour vision deficiency (CVD) as possible, this is our first release, and we recognise this product may not be perfect for all people with colour blindness. 
+
+If you have any feedback on our styles, please feel free to let us know at cartodesign@os.uk
+
+These products are only partially compliant with the Web Content Accessibility Guidelines, version 2.1 AA standard, due to the non compliance listed below.
+
+Non accessible content:
+•	Due to the nature of map products and their need to incorporate an inclusive design to all users, both with and without colour blindness, they fall outside the scope of WCAG 2.1 AA success criteria clause 1.4.11, regarding non-text contrast. 
+
 ## Licence
 
 By using these stylesheets you are accepting the terms of the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/)
