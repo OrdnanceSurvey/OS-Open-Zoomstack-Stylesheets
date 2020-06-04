@@ -8,7 +8,7 @@
   <customproperties/>
   <renderer type="basic">
     <styles>
-      <style enabled="1" min-zoom="-1" max-zoom="-1" name="Polygons" expression="" geometry="2" layer="">
+      <style enabled="0" min-zoom="-1" max-zoom="-1" name="Polygons" expression="" geometry="2" layer="">
         <symbols>
           <symbol force_rhr="0" clip_to_extent="1" type="fill" alpha="1" name="0">
             <layer enabled="1" locked="0" class="SimpleFill" pass="0">
