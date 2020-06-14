@@ -39,7 +39,7 @@
           <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleFill" pass="0" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="color" v="88,199,233,255"/>
+              <prop k="color" v="170,222,239,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -91,7 +91,7 @@
           <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleFill" pass="0" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="color" v="247,221,176,255"/>
+              <prop k="color" v="247,234,202,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -117,7 +117,7 @@
           <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleFill" pass="0" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="color" v="246,186,130,255"/>
+              <prop k="color" v="247,243,202,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -143,7 +143,7 @@
           <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleFill" pass="0" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="color" v="226,236,246,255"/>
+              <prop k="color" v="216,230,243,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -169,7 +169,7 @@
           <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleFill" pass="0" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="color" v="255,155,187,255"/>
+              <prop k="color" v="243,216,231,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -221,7 +221,7 @@
           <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleFill" pass="0" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="color" v="201,228,184,255"/>
+              <prop k="color" v="209,231,195,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -309,7 +309,7 @@
           <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleFill" pass="0" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="color" v="214,209,193,255"/>
+              <prop k="color" v="220,215,198,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -335,7 +335,7 @@
           <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleFill" pass="0" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="color" v="88,199,233,255"/>
+              <prop k="color" v="170,222,239,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
@@ -361,12 +361,12 @@
           <symbol type="fill" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleFill" pass="0" locked="0">
               <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="color" v="245,245,221,255"/>
+              <prop k="color" v="235,235,211,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="245,245,221,255"/>
+              <prop k="outline_color" v="235,235,211,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.2"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -392,7 +392,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="75,186,219,255"/>
+              <prop k="line_color" v="164,218,235,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.32"/>
               <prop k="line_width_unit" v="MM"/>
@@ -423,7 +423,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="75,186,219,255"/>
+              <prop k="line_color" v="164,218,235,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.26"/>
               <prop k="line_width_unit" v="MM"/>
@@ -444,7 +444,7 @@
           </symbol>
         </symbols>
       </style>
-      <style max-zoom="-1" layer="waterlines" expression="&quot;type&quot; = 'Regional'" geometry="1" min-zoom="-1" enabled="1" name="waterline - Regional">
+      <style max-zoom="-1" layer="waterlines" expression="&quot;type&quot; = 'Regional'" geometry="1" min-zoom="-1" enabled="1" name="waterline 0 Regional">
         <symbols>
           <symbol type="line" clip_to_extent="1" alpha="1" force_rhr="0" name="0">
             <layer enabled="1" class="SimpleLine" pass="0" locked="0">
@@ -454,7 +454,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="75,186,219,255"/>
+              <prop k="line_color" v="164,218,235,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.26"/>
               <prop k="line_width_unit" v="MM"/>
@@ -485,7 +485,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="75,186,219,255"/>
+              <prop k="line_color" v="164,218,235,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.26"/>
               <prop k="line_width_unit" v="MM"/>
@@ -516,7 +516,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="75,186,219,255"/>
+              <prop k="line_color" v="164,218,235,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.36"/>
               <prop k="line_width_unit" v="MM"/>
@@ -547,7 +547,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="75,186,219,255"/>
+              <prop k="line_color" v="164,218,235,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.16"/>
               <prop k="line_width_unit" v="MM"/>
@@ -578,7 +578,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="6,141,178,255"/>
+              <prop k="line_color" v="8,184,232,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="13.5"/>
               <prop k="line_width_unit" v="MapUnit"/>
@@ -609,7 +609,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="125,178,116,255"/>
+              <prop k="line_color" v="119,199,118,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="12.5"/>
               <prop k="line_width_unit" v="MapUnit"/>
@@ -640,7 +640,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="255,255,255,255"/>
+              <prop k="line_color" v="235,235,224,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="11.5"/>
               <prop k="line_width_unit" v="MapUnit"/>
@@ -671,7 +671,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="255,255,255,255"/>
+              <prop k="line_color" v="235,235,224,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="10.5"/>
               <prop k="line_width_unit" v="MapUnit"/>
@@ -702,7 +702,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="255,255,255,255"/>
+              <prop k="line_color" v="235,235,224,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="11.5"/>
               <prop k="line_width_unit" v="MapUnit"/>
@@ -733,7 +733,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="255,255,255,255"/>
+              <prop k="line_color" v="235,235,224,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="8.5"/>
               <prop k="line_width_unit" v="MapUnit"/>
@@ -764,7 +764,7 @@
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="253,253,252,255"/>
+              <prop k="line_color" v="235,235,224,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="8.5"/>
               <prop k="line_width_unit" v="MapUnit"/>
@@ -1375,7 +1375,7 @@
                 </Option>
                 <Option type="Map" name="Color">
                   <Option type="bool" value="true" name="active"/>
-                  <Option type="QString" value="CASE &#xa;WHEN  &quot;type&quot; = 'National Park' OR &quot;type&quot; = 'Woodland' THEN '#406329' &#xa;WHEN  &quot;type&quot; = 'Country' THEN '#6e6545' &#xa;WHEN  &quot;type&quot; = 'Town' THEN '#372d0b' &#xa;WHEN  &quot;type&quot; = 'Village' OR &quot;type&quot; = 'Hamlet' THEN '#372d0b' &#xa;WHEN  &quot;type&quot; = 'Suburban Area' THEN '#372d0b' &#xa;WHEN  &quot;type&quot; = 'Small Settlements' THEN '#372d0b' &#xa;WHEN  &quot;type&quot; = 'Water' THEN '#073f52' &#xa;WHEN  &quot;type&quot; = 'Landcover' THEN '#4d3f15' &#xa;WHEN  &quot;type&quot; = 'Landform' THEN '#5c3505' &#xa;WHEN  &quot;type&quot; = 'Sites' THEN '#4d3f15' &#xa;WHEN  &quot;type&quot; = 'Greenspace' THEN '#235901' &#xa;WHEN  &quot;type&quot; = 'Motorway Junctions' THEN '#ffffff' END" name="expression"/>
+                  <Option type="QString" value="CASE &#xa;WHEN  &quot;type&quot; = 'National Park' OR &quot;type&quot; = 'Woodland' THEN '#599c30' &#xa;WHEN  &quot;type&quot; = 'Country' THEN '#6e6545' &#xa;WHEN  &quot;type&quot; = 'Town' THEN '#372d0b' &#xa;WHEN  &quot;type&quot; = 'Village' OR &quot;type&quot; = 'Hamlet' THEN '#655314' &#xa;WHEN  &quot;type&quot; = 'Suburban Area' THEN '#725F17' &#xa;WHEN  &quot;type&quot; = 'Small Settlements' THEN '#9a8d60' &#xa;WHEN  &quot;type&quot; = 'Water' THEN '#318fae' &#xa;WHEN  &quot;type&quot; = 'Landcover' THEN '#af9031' &#xa;WHEN  &quot;type&quot; = 'Landform' THEN '#af7631' &#xa;WHEN  &quot;type&quot; = 'Sites' THEN '#a79720' &#xa;WHEN  &quot;type&quot; = 'Greenspace' THEN '#438519' &#xa;WHEN  &quot;type&quot; = 'Motorway Junctions' THEN '#ffffff' END" name="expression"/>
                   <Option type="int" value="3" name="type"/>
                 </Option>
                 <Option type="Map" name="FontStyle">
@@ -1422,7 +1422,7 @@
           </callout>
         </settings>
       </style>
-      <style max-zoom="-1" layer="railwaystation" expression="" geometry="0" min-zoom="-1" enabled="1" name="railwaystation">
+      <style max-zoom="-1" layer="railwaystation" expression="" geometry="0" min-zoom="-1" enabled="0" name="railwaystation">
         <settings calloutType="simple">
           <text-style textOpacity="1" allowHtml="0" fontFamily="Noto Sans" fontItalic="0" fontWeight="50" fontSize="9" textColor="0,0,0,255" fontStrikeout="0" fontUnderline="0" fontLetterSpacing="0" useSubstitutions="0" fontKerning="1" previewBkgrdColor="255,255,255,255" fontSizeMapUnitScale="3x:0,0,0,0,0,0" blendMode="0" fieldName="name" textOrientation="horizontal" fontSizeUnit="Point" multilineHeight="1" fontWordSpacing="0" namedStyle="Regular" isExpression="1" fontCapitals="0">
             <text-buffer bufferDraw="1" bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferNoFill="1" bufferColor="244,244,238,255" bufferSize="0.8" bufferSizeUnits="MM" bufferOpacity="0.8" bufferBlendMode="0" bufferJoinStyle="128"/>
