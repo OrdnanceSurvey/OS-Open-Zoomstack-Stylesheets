@@ -27,7 +27,7 @@
           <prop v="133,175,219,255" k="color"/>
           <prop v="0" k="fixedAspectRatio"/>
           <prop v="1" k="horizontal_anchor_point"/>
-          <prop v="/Users/pnaylor/Desktop/stylesheets/OS-Open-Zoomstack-Stylesheets-master/GeoPackage/QGIS Stylesheets (QML)/os-open-zoomstack-symbols/LRTS.svg" k="name"/>
+          <prop k="name" v="os-open-zoomstack-symbols/LRTS.svg"/>
           <prop v="0,0" k="offset"/>
           <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
           <prop v="MM" k="offset_unit"/>
@@ -55,7 +55,7 @@
           <prop v="126,219,102,255" k="color"/>
           <prop v="0" k="fixedAspectRatio"/>
           <prop v="1" k="horizontal_anchor_point"/>
-          <prop v="/Users/pnaylor/Desktop/stylesheets/OS-Open-Zoomstack-Stylesheets-master/GeoPackage/QGIS Stylesheets (QML)/os-open-zoomstack-symbols/LRTS-UG.svg" k="name"/>
+          <prop k="name" v="os-open-zoomstack-symbols/LRTS-UG.svg"/>
           <prop v="0,0" k="offset"/>
           <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
           <prop v="MM" k="offset_unit"/>
@@ -83,7 +83,7 @@
           <prop v="60,239,177,255" k="color"/>
           <prop v="0" k="fixedAspectRatio"/>
           <prop v="1" k="horizontal_anchor_point"/>
-          <prop v="/Users/pnaylor/Desktop/stylesheets/OS-Open-Zoomstack-Stylesheets-master/GeoPackage/QGIS Stylesheets (QML)/os-open-zoomstack-symbols/RS-LRTS.svg" k="name"/>
+          <prop k="name" v="os-open-zoomstack-symbols/RS-LRTS.svg"/>
           <prop v="0,0" k="offset"/>
           <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
           <prop v="MM" k="offset_unit"/>
@@ -111,7 +111,7 @@
           <prop v="214,66,53,255" k="color"/>
           <prop v="0" k="fixedAspectRatio"/>
           <prop v="1" k="horizontal_anchor_point"/>
-          <prop v="/Users/pnaylor/Desktop/stylesheets/OS-Open-Zoomstack-Stylesheets-master/GeoPackage/QGIS Stylesheets (QML)/os-open-zoomstack-symbols/UG.svg" k="name"/>
+          <prop k="name" v="os-open-zoomstack-symbols/UG.svg"/>
           <prop v="0,0" k="offset"/>
           <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
           <prop v="MM" k="offset_unit"/>
@@ -139,7 +139,7 @@
           <prop v="93,25,209,255" k="color"/>
           <prop v="0" k="fixedAspectRatio"/>
           <prop v="1" k="horizontal_anchor_point"/>
-          <prop v="/Users/pnaylor/Desktop/stylesheets/OS-Open-Zoomstack-Stylesheets-master/GeoPackage/QGIS Stylesheets (QML)/os-open-zoomstack-symbols/RS.svg" k="name"/>
+          <prop k="name" v="os-open-zoomstack-symbols/RS.svg"/>
           <prop v="0,0" k="offset"/>
           <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
           <prop v="MM" k="offset_unit"/>
@@ -167,7 +167,7 @@
           <prop v="237,18,186,255" k="color"/>
           <prop v="0" k="fixedAspectRatio"/>
           <prop v="1" k="horizontal_anchor_point"/>
-          <prop v="/Users/pnaylor/Desktop/stylesheets/OS-Open-Zoomstack-Stylesheets-master/GeoPackage/QGIS Stylesheets (QML)/os-open-zoomstack-symbols/RS-UG.svg" k="name"/>
+          <prop k="name" v="os-open-zoomstack-symbols/RS-UG.svg"/>
           <prop v="0,0" k="offset"/>
           <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
           <prop v="MM" k="offset_unit"/>
