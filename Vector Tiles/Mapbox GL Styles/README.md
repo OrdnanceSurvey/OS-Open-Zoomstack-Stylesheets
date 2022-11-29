@@ -14,7 +14,7 @@ We are supplying the fonts and sprites if you want to use the styles offline/loc
 
 [More information about OS Open Zoomstack, including a Getting Started Guide](http://www.ordnancesurvey.co.uk/business-and-government/products/os-open-zoomstack.html)
 
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence
 
