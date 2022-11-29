@@ -15,7 +15,7 @@ We are providing the hex codes and RGB values so you can apply the styles to OS 
 
 
 
-[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
+For more information about data styling and visualisation, take a look at our [GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 
 
