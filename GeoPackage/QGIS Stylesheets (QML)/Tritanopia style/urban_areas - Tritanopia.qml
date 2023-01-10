@@ -133,10 +133,10 @@
     <rowstyles/>
     <fieldstyles/>
   </conditionalstyles>
-  <editform tolerant="1">PROGRA~1/QGIS2~1.18</editform>
+  <editform tolerant="1"></editform>
   <editforminit/>
   <editforminitcodesource>0</editforminitcodesource>
-  <editforminitfilepath>PROGRA~1/QGIS2~1.18</editforminitfilepath>
+  <editforminitfilepath></editforminitfilepath>
   <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
