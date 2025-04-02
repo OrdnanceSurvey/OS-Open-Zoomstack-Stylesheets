@@ -1,0 +1,51 @@
+{
+  "Airport": {
+    "height": 21,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 0,
+    "y": 0
+  },
+  "LRTS": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 15,
+    "x": 21,
+    "y": 0
+  },
+  "LRTS-UG": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 34,
+    "x": 0,
+    "y": 21
+  },
+  "RS": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 34,
+    "y": 21
+  },
+  "RS-LRTS": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 36,
+    "y": 0
+  },
+  "RS-UG": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 39,
+    "x": 0,
+    "y": 36
+  },
+  "UG": {
+    "height": 15,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 58,
+    "y": 21
+  }
+}
