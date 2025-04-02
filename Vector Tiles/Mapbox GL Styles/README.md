@@ -8,7 +8,7 @@ These are Mapbox GL styles (.json) for OS Open Zoomstack Vector Tiles for use in
 
 The SVG symbols are required for Airport and Railway Station symbols.
 
-We are supplying the fonts and sprites if you want to use the styles offline/locally. They work with all 4 styles.
+We are supplying the fonts and sprites if you want to use the styles offline/locally. They work with all 6 styles.
 
 ## Additional information
 
