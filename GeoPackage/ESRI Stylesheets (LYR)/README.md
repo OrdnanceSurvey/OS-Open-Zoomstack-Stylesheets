@@ -1,6 +1,6 @@
 # OS Open Zoomstack LYR
 
-These are LYR files for OS Open Zoomstack for use in ArcMap.
+These are LYR files for OS Open Zoomstack for use in ESRI ArcMap.
 
 *They have been designed to work with the data as it is supplied.*
 
