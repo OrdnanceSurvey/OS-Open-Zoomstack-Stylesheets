@@ -13,7 +13,7 @@
           <prop k="color" v="51,48,141,255"/>
           <prop k="fixedAspectRatio" v="0"/>
           <prop k="horizontal_anchor_point" v="1"/>
-          <prop k="name" v="os-open-zoomstack-symbols/Airport.svg"/>
+          <prop k="name" v="os-open-zoomstack-symbols/Airport-light.svg"/>
           <prop k="offset" v="0,0"/>
           <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
           <prop k="offset_unit" v="MM"/>
