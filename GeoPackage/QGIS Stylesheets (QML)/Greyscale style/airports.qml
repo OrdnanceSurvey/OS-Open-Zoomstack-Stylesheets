@@ -160,7 +160,7 @@
             <Option value="133,141,147,255,rgb:0.52156862745098043,0.55294117647058827,0.57647058823529407,1" name="color" type="QString"/>
             <Option value="0" name="fixedAspectRatio" type="QString"/>
             <Option value="1" name="horizontal_anchor_point" type="QString"/>
-            <Option value="C:/Users/hwright/OneDrive - Ordnance Survey/Projects/Zoomstack and Topo style redesign/Zoomstack Updated Styles/Geopackage/Greyscale/os-open-zoomstack-symbols/Airport.svg" name="name" type="QString"/>
+            <Option value="os-open-zoomstack-symbols/Airport-greyscale.svg" name="name" type="QString"/>
             <Option value="0,0" name="offset" type="QString"/>
             <Option value="3x:0,0,0,0,0,0" name="offset_map_unit_scale" type="QString"/>
             <Option value="MM" name="offset_unit" type="QString"/>
